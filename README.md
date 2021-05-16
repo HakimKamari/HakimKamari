@@ -1,4 +1,4 @@
-- 👋 Hi there! I’m @HakimKamari. I'm a final year student at the Singapore Institute of Technology doing my undergraduate studies in Aircraft Systems Engineering.
+- 👋 Hi there! I’m @HakimKamari. I'm a final year student at the Singapore Institute of Technology doing my degree in Aircraft Systems Engineering.
 I'm here trying to make sense of the world around me.
 
 - 👀 I’m interested in ...
